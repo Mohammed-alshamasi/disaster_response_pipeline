@@ -1,5 +1,8 @@
 # Disaster Response Pipeline Project
 
+### Purpose of this project:
+The purpose of the project is to build a model that classifies disaster messages. Using the web app an emergency worker can input a new message and get classification results in several categories so to have an idea what kind of help is needed.
+
 ### Install
 1. NumPy
 2. Pandas
