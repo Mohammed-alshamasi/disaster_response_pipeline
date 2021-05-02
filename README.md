@@ -35,3 +35,7 @@ The purpose of the project is to build a model that classifies disaster messages
     `python run.py`
 
 3. Go to http://0.0.0.0:3001/
+
+
+### Acknowledgments
+This app was completed as part of the Udacity Data Scientist Nanodegree. Code templates and data were provided by Udacity. The data was originally sourced by Udacity from Figure Eight.
